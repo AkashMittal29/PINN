@@ -5,9 +5,9 @@
 <li>The NN model is created in Lid_Driven_Cavity.py.</li>
 <li>Modifications may be done in this file.</li>
 <li>Files named mod_*.py are imported in Lid_Driven_Cavity.py. To keep the main code cleaner and compact, various classes, such as for domain and loss, have been defined in the mod_*.py files.</li>
-<li>Before trining the model, make sure the variable result_dir is assigned to a directory path (result directory) where the model will be saved.</li>
+<li>Before training the model, make sure the variable <p style="color: red;">result_dir</p> is assigned to a directory path (result directory) where the model will be saved.</li>
 </ul>
-
+<p style="color:red;">text</p>
 <h2>Result</h2>
 <ul>
 <li>Post-processing may be done in a separate folder such as in Result_01/.</li>
