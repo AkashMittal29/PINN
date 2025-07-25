@@ -11,7 +11,7 @@
 <h2>Result</h2>
 <ul>
 <li>Post-processing may be done in a separate folder such as in Result_01/.</li>
-<li>Copy the NN model class to the file model_class_01.py or in the file post_processing.py before the model is loaded. The model class must be available where the model is loaded back. Here, post+processing.py file imports model_class.py before loading the model.</li>
+<li>Copy the NN model class to the file model_class_01.py or in the file post_processing.py before the model is loaded. The model class must be available where the model is loaded back. Here, post_processing.py file imports model_class.py before loading the model.</li>
 <li>Model is loaded in the file post_processing.py and data is written in the output files.</li>
 <li>The output files are loaded by the MATLAB file plot_result.m for generating plots.</li>
 </ul>
