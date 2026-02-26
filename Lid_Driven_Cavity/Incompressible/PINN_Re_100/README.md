@@ -16,23 +16,19 @@
 <li>The output files are loaded by the MATLAB file plot_result.m for generating plots.</li>
 </ul>
 
-<h2>Figures from an example case</h2>
+<h2>Flow field for an example case</h2>
+
 <p align="center">
   <img src="Images/nn.png" width="400">
 </p>
 
 <p align="center">
-  <img src="Images/loss_history.png" width="400">
+  <img src="Images/loss_history.png" width="300">
 </p>
 
 <p align="center">
-  <img src="Images/u_vel.png" width="400">
+  <img src="Images/u_vel.png" width="300">
+   <img src="Images/v_vel.png" width="300">
+   <img src="Images/p.png" width="300">
 </p>
 
-<p align="center">
-  <img src="Images/v_vel.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Images/p.png" width="400">
-</p>
